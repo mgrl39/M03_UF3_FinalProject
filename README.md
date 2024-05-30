@@ -1,4 +1,4 @@
-# Projecte de Gestió de Comunitats Autònomes
+# Autonomous Communities Management Project
 
 ## Description
 
